@@ -1,0 +1,27 @@
+{
+  "name": "banking-application",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "preferGlobal": true,
+  "bin": "./commands.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Tushar9546/banking-application.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Tushar9546/banking-application/issues"
+  },
+  "homepage": "https://github.com/Tushar9546/banking-application#readme",
+  "dependencies": {
+    "commander": "^10.0.0",
+    "inquirer": "^8.2.5",
+    "mongoose": "^6.9.0"
+  }
+}
